@@ -83,4 +83,4 @@ const prime = numbers.filter((el) => {
   //   }
 });
 
-console.log(prime);
+// console.log(prime);
